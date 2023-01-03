@@ -1,4 +1,4 @@
-# Lottery Gama
+# Lottery Game
 
 - Features
 - Built with
