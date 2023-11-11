@@ -61,6 +61,7 @@ function getEquals(generatedNum, userNumbers) {
 	else  {
 		match.innerHTML +="You don't win nothing";
 	}
+	display.disabled = true;
 }
 
 // function to reset the game 
